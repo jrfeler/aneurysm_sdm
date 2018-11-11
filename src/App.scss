@@ -1,0 +1,106 @@
+.app_container {
+  width: 100%;
+  min-height: 100%;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+
+.app_background {
+  width: 100%;
+  background-color: rgba(240,240,240,1);
+  min-height: 1000px;
+}
+
+.norm_padding {
+  padding: 1em;
+}
+
+.landing_block {
+  position: relative;
+  margin-bottom: 2em !important;
+  &.first {
+      margin-bottom: 5em !important;
+  }
+  &:nth-of-type(2n+1) {
+    background-color: rgb(250,250,250);
+  }
+  & > img.large {
+    width: 80%;
+    right: 10px;
+  }
+}
+
+.limit_lg {
+  max-width: 600px;
+}
+
+.limit_md {
+  max-width: 400px;
+}
+
+.limit_sm{
+  max-width: 200px;
+}
+
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  font-style: normal;
+  font-weight: bolder;
+  color: rgb(221,85,66)
+}
+
+.grid_img {
+  width: 100%;
+}
+
+.landing_img_text {
+  @extend .norm_padding;
+  background-color: rgba(240,240,240,1) !important;
+
+  &.large {
+    background-color: rgba(240,240,240,.75) !important;
+    width: 60%;
+    position: absolute;
+    left: 10px;
+    bottom: -60px;
+  }
+
+  & > h2 {
+    color: rgb(221,85,66);
+    font-weight: 600;
+    border-bottom: 3px rgb(221,85,66) solid;
+  }
+
+  .landing_text_block {
+    background-color: rgba(240,240,240,.75) !important;
+
+    & > h2 {
+      color: rgb(221,85,66);
+      font-weight: 600;
+      border-bottom: 3px rgb(221,85,66) solid;
+    }
+  }
+  // &>p {
+  //   border-left: 3px red solid;
+  //   padding: .25em;
+  // }
+}
+
+//TABLE SETUP
+
+table> thead > tr > th, tbody>tr>th {
+  font-weight: bold !important;
+  font-size: 12pt !important;
+  color: black !important;
+  padding: 10px !important;
+}
+tbody>tr>td {
+padding: 10px !important;
+}

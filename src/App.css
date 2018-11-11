@@ -1,32 +1,101 @@
-.App {
-  text-align: center;
+.app_container {
+  width: 100%;
+  min-height: 100%;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.app_background {
+  width: 100%;
+  background-color: #f0f0f0;
+  min-height: 1000px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.norm_padding, .landing_img_text {
+  padding: 1em;
 }
 
-.App-link {
-  color: #61dafb;
+.landing_block {
+  position: relative;
+  margin-bottom: 2em !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.landing_block.first {
+  margin-bottom: 5em !important;
+}
+
+.landing_block:nth-of-type(2n+1) {
+  background-color: #fafafa;
+}
+
+.landing_block > img.large {
+  width: 80%;
+  right: 10px;
+}
+
+.limit_lg {
+  max-width: 600px;
+}
+
+.limit_md {
+  max-width: 400px;
+}
+
+.limit_sm {
+  max-width: 200px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  font-style: normal;
+  font-weight: bolder;
+  color: #dd5542;
+}
+
+.grid_img {
+  width: 100%;
+}
+
+.landing_img_text {
+  background-color: #f0f0f0 !important;
+}
+
+.landing_img_text.large {
+  background-color: rgba(240, 240, 240, 0.75) !important;
+  width: 60%;
+  position: absolute;
+  left: 10px;
+  bottom: -60px;
+}
+
+.landing_img_text > h2 {
+  color: #dd5542;
+  font-weight: 600;
+  border-bottom: 3px #dd5542 solid;
+}
+
+.landing_img_text .landing_text_block {
+  background-color: rgba(240, 240, 240, 0.75) !important;
+}
+
+.landing_img_text .landing_text_block > h2 {
+  color: #dd5542;
+  font-weight: 600;
+  border-bottom: 3px #dd5542 solid;
+}
+
+table > thead > tr > th, tbody > tr > th {
+  font-weight: bold !important;
+  font-size: 12pt !important;
+  color: black !important;
+  padding: 10px !important;
+}
+
+tbody > tr > td {
+  padding: 10px !important;
 }
