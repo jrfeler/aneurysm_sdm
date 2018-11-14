@@ -1,7 +1,7 @@
 {
-  "main.css": "/aneurysm_sdm/static/css/main.ce221eb6.chunk.css",
-  "main.js": "/aneurysm_sdm/static/js/main.0e4f8245.chunk.js",
-  "main.js.map": "/aneurysm_sdm/static/js/main.0e4f8245.chunk.js.map",
+  "main.css": "/aneurysm_sdm/static/css/main.65a969a8.chunk.css",
+  "main.js": "/aneurysm_sdm/static/js/main.fe14dad6.chunk.js",
+  "main.js.map": "/aneurysm_sdm/static/js/main.fe14dad6.chunk.js.map",
   "static/js/1.8c43b03d.chunk.js": "/aneurysm_sdm/static/js/1.8c43b03d.chunk.js",
   "static/js/1.8c43b03d.chunk.js.map": "/aneurysm_sdm/static/js/1.8c43b03d.chunk.js.map",
   "runtime~main.js": "/aneurysm_sdm/static/js/runtime~main.4b564bf2.js",
@@ -13,8 +13,8 @@
   "static/media/labeled_coiling.svg": "/aneurysm_sdm/static/media/labeled_coiling.a631b0ff.svg",
   "static/media/labeled_clipping.svg": "/aneurysm_sdm/static/media/labeled_clipping.aa42bfea.svg",
   "static/media/aneurysm_flow.svg": "/aneurysm_sdm/static/media/aneurysm_flow.91b32844.svg",
-  "static/css/main.ce221eb6.chunk.css.map": "/aneurysm_sdm/static/css/main.ce221eb6.chunk.css.map",
+  "static/css/main.65a969a8.chunk.css.map": "/aneurysm_sdm/static/css/main.65a969a8.chunk.css.map",
   "index.html": "/aneurysm_sdm/index.html",
-  "precache-manifest.e726233867b90ac79eb9b350f0a9c765.js": "/aneurysm_sdm/precache-manifest.e726233867b90ac79eb9b350f0a9c765.js",
+  "precache-manifest.018795d07d497826955712c4e5509583.js": "/aneurysm_sdm/precache-manifest.018795d07d497826955712c4e5509583.js",
   "service-worker.js": "/aneurysm_sdm/service-worker.js"
 }
