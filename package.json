@@ -5,6 +5,7 @@
   "homepage": "https://jrfeler.github.io/aneurysm_sdm/",
   "dependencies": {
     "@material-ui/core": "^3.3.1",
+    "@material-ui/icons": "^3.0.1",
     "@nivo/bar": "^0.51.0",
     "@nivo/pie": "^0.51.0",
     "add": "^2.0.6",

@@ -1,3 +1,7 @@
+body, html {
+  height: 100%;
+}
+
 .app_container {
   width: 100%;
   min-height: 100%;
@@ -15,6 +19,14 @@
 
 .norm_padding, .landing_img_text {
   padding: 1em;
+}
+
+.landing-title {
+  margin: 1.5em auto .5em auto !important;
+}
+
+.landing-subtitle {
+  margin: 0 auto 1em 10% !important;
 }
 
 .landing_block {
@@ -47,7 +59,7 @@
   max-width: 200px;
 }
 
-ul {
+ul, ol {
   padding-left: 20px;
 }
 
@@ -89,13 +101,73 @@ a {
   border-bottom: 3px #dd5542 solid;
 }
 
-table > thead > tr > th, tbody > tr > th {
+.supertitle {
+  font-size: 10pt;
+  color: gray;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0.1em;
+}
+
+.inline-icon {
+  margin: 3px;
+  font-size: inherit !important;
+  top: 5px;
+  position: relative;
+  transition: all 0.5s ease-in-out;
+}
+
+.inline-icon:hover {
+  transform: scale(1.4);
+}
+
+.big-number {
+  color: #dd5542;
+  text-transform: capitalize;
+  padding: 0.25em 0 0.24em;
+  justify: center;
+}
+
+.rotate-180 {
+  transition: all 0.70s ease;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+}
+
+.rotate-180.now {
+  transition: all 0.70s ease;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+table > thead > tr > th,
+tbody > tr > th {
   font-weight: bold !important;
   font-size: 12pt !important;
   color: black !important;
   padding: 10px !important;
+  text-align: center !important;
 }
 
 tbody > tr > td {
   padding: 10px !important;
+  font-size: 12pt;
+  justify: center;
+}
+
+table.options-table > tbody > tr > th {
+  width: 10%;
+}
+
+table.options-table > tbody > tr > td {
+  width: 30%;
 }
