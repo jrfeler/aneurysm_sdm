@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/aneurysm.0378bd45.png"
   },
   {
-    "revision": "569238c136cb7b9f58b7",
+    "revision": "9be780cc99471a1d4c32",
     "url": "/aneurysm_sdm/static/css/main.c652256b.chunk.css"
   },
   {
-    "revision": "6260ed0d7b0aa151ede5",
-    "url": "/aneurysm_sdm/static/js/1.6260ed0d.chunk.js"
+    "revision": "be6f3a772ce07e1c04e3",
+    "url": "/aneurysm_sdm/static/js/1.be6f3a77.chunk.js"
   },
   {
     "revision": "4b564bf294d7cf9db9f5",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/labeled_clipping.aa42bfea.svg"
   },
   {
-    "revision": "569238c136cb7b9f58b7",
-    "url": "/aneurysm_sdm/static/js/main.569238c1.chunk.js"
+    "revision": "9be780cc99471a1d4c32",
+    "url": "/aneurysm_sdm/static/js/main.9be780cc.chunk.js"
   },
   {
     "revision": "0671e97f69cc07e88aceccd43ea5e5f2",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/ca_pronounced.0280557b.mp3"
   },
   {
-    "revision": "52fe3bc092fa811e1bcbffa26be89b7e",
+    "revision": "bbc5c329ad23adb20715c1fd73eb14ec",
     "url": "/aneurysm_sdm/index.html"
   }
 ];
