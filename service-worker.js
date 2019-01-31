@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/aneurysm_sdm/precache-manifest.7c05b5a02795c9a99e30ca399f61db41.js"
+  "/aneurysm_sdm/precache-manifest.25f59006110b27561e37b18b423b1a87.js"
 );
 
 workbox.clientsClaim();
