@@ -1,9 +1,9 @@
 {
-  "main.css": "/aneurysm_sdm/static/css/main.610da9d4.chunk.css",
-  "main.js": "/aneurysm_sdm/static/js/main.67943bd8.chunk.js",
-  "main.js.map": "/aneurysm_sdm/static/js/main.67943bd8.chunk.js.map",
-  "static/js/1.b2f4202f.chunk.js": "/aneurysm_sdm/static/js/1.b2f4202f.chunk.js",
-  "static/js/1.b2f4202f.chunk.js.map": "/aneurysm_sdm/static/js/1.b2f4202f.chunk.js.map",
+  "main.css": "/aneurysm_sdm/static/css/main.f651c269.chunk.css",
+  "main.js": "/aneurysm_sdm/static/js/main.b1a6a774.chunk.js",
+  "main.js.map": "/aneurysm_sdm/static/js/main.b1a6a774.chunk.js.map",
+  "static/js/1.408b20cd.chunk.js": "/aneurysm_sdm/static/js/1.408b20cd.chunk.js",
+  "static/js/1.408b20cd.chunk.js.map": "/aneurysm_sdm/static/js/1.408b20cd.chunk.js.map",
   "runtime~main.js": "/aneurysm_sdm/static/js/runtime~main.4b564bf2.js",
   "runtime~main.js.map": "/aneurysm_sdm/static/js/runtime~main.4b564bf2.js.map",
   "static/media/pcomm_cor.svg": "/aneurysm_sdm/static/media/pcomm_cor.86ab82ab.svg",
@@ -35,8 +35,8 @@
   "static/media/labeled_clipping.svg": "/aneurysm_sdm/static/media/labeled_clipping.aa42bfea.svg",
   "static/media/clip_v_coil.svg": "/aneurysm_sdm/static/media/clip_v_coil.99e1b816.svg",
   "static/media/annie_rec.jpg": "/aneurysm_sdm/static/media/annie_rec.8644243a.jpg",
-  "static/css/main.610da9d4.chunk.css.map": "/aneurysm_sdm/static/css/main.610da9d4.chunk.css.map",
+  "static/css/main.f651c269.chunk.css.map": "/aneurysm_sdm/static/css/main.f651c269.chunk.css.map",
   "index.html": "/aneurysm_sdm/index.html",
-  "precache-manifest.e81ca7a0b38576a7c552256d0c11b5ec.js": "/aneurysm_sdm/precache-manifest.e81ca7a0b38576a7c552256d0c11b5ec.js",
+  "precache-manifest.e3f84db43e29de3c57d3d4747a054750.js": "/aneurysm_sdm/precache-manifest.e3f84db43e29de3c57d3d4747a054750.js",
   "service-worker.js": "/aneurysm_sdm/service-worker.js"
 }
