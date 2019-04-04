@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2e2305eba9223f027c8296a9d79ad68a",
-    "url": "/aneurysm_sdm/static/media/ica_sag.2e2305eb.svg"
+    "revision": "73f5bcdafedbcd6797854e4ae9956d07",
+    "url": "/aneurysm_sdm/static/media/ica_cav_sag.73f5bcda.svg"
   },
   {
-    "revision": "381dc9fbfd0643a85a2e",
-    "url": "/aneurysm_sdm/static/css/main.bb1c9741.chunk.css"
+    "revision": "51ac2af6e16ca462701f",
+    "url": "/aneurysm_sdm/static/css/main.18447b09.chunk.css"
   },
   {
-    "revision": "7e3402b841fa01ca46cc",
-    "url": "/aneurysm_sdm/static/js/1.7e3402b8.chunk.js"
+    "revision": "8644243abcb066444b3f706cd2fd8a6b",
+    "url": "/aneurysm_sdm/static/media/annie_rec.8644243a.jpg"
+  },
+  {
+    "revision": "d753f3ec5a21a0bcfa14",
+    "url": "/aneurysm_sdm/static/js/1.d753f3ec.chunk.js"
   },
   {
     "revision": "4b564bf294d7cf9db9f5",
@@ -64,12 +68,12 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/ica_cav_callout.2c71df4d.svg"
   },
   {
-    "revision": "73f5bcdafedbcd6797854e4ae9956d07",
-    "url": "/aneurysm_sdm/static/media/ica_cav_sag.73f5bcda.svg"
+    "revision": "51ac2af6e16ca462701f",
+    "url": "/aneurysm_sdm/static/js/main.51ac2af6.chunk.js"
   },
   {
-    "revision": "381dc9fbfd0643a85a2e",
-    "url": "/aneurysm_sdm/static/js/main.381dc9fb.chunk.js"
+    "revision": "2e2305eba9223f027c8296a9d79ad68a",
+    "url": "/aneurysm_sdm/static/media/ica_sag.2e2305eb.svg"
   },
   {
     "revision": "d58b3f2b33d9e1456de81d0a2891e752",
@@ -128,11 +132,11 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/clip_v_coil.99e1b816.svg"
   },
   {
-    "revision": "8644243abcb066444b3f706cd2fd8a6b",
-    "url": "/aneurysm_sdm/static/media/annie_rec.8644243a.jpg"
+    "revision": "d753f3ec5a21a0bcfa14",
+    "url": "/aneurysm_sdm/static/css/1.1f77a85e.chunk.css"
   },
   {
-    "revision": "2580a8dca8cface004cc91ba3df199d9",
+    "revision": "90c8d3df582b715bbc72c34c32cbdebd",
     "url": "/aneurysm_sdm/index.html"
   }
 ];
