@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/ica_cav_sag.73f5bcda.svg"
   },
   {
-    "revision": "869ff9a7637893e23e34",
+    "revision": "e54bb15ab3f36a712388",
     "url": "/aneurysm_sdm/static/css/main.0746fa3a.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/ica_cav_callout.2c71df4d.svg"
   },
   {
-    "revision": "869ff9a7637893e23e34",
-    "url": "/aneurysm_sdm/static/js/main.869ff9a7.chunk.js"
+    "revision": "e54bb15ab3f36a712388",
+    "url": "/aneurysm_sdm/static/js/main.e54bb15a.chunk.js"
   },
   {
     "revision": "2e2305eba9223f027c8296a9d79ad68a",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/css/1.7734c62e.chunk.css"
   },
   {
-    "revision": "018871ba194016122cfb291b655c65e0",
+    "revision": "ed35ed5075f53b0ee67903b0c13070d3",
     "url": "/aneurysm_sdm/index.html"
   }
 ];
