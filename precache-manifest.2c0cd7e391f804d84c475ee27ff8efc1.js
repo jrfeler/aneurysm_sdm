@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ede8a852d7b7339a5879",
+    "revision": "d68557bd0f0e0683c018",
     "url": "/aneurysm_sdm/static/css/main.031184d1.chunk.css"
   },
   {
-    "revision": "ede8a852d7b7339a5879",
-    "url": "/aneurysm_sdm/static/js/main.ede8a852.chunk.js"
+    "revision": "d68557bd0f0e0683c018",
+    "url": "/aneurysm_sdm/static/js/main.d68557bd.chunk.js"
   },
   {
     "revision": "9ecc77605557f976464c",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/aneurysm_sdm/static/media/annie_rec.8644243a.jpg"
   },
   {
-    "revision": "2d63d533cce0bbb5eff183e67dc7a6b5",
+    "revision": "bf058e30b0fd72dc04e9105e93918c42",
     "url": "/aneurysm_sdm/index.html"
   }
 ];
